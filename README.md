@@ -1,4 +1,4 @@
-# evklid__weblayout
+# Одностраничны сайт проектного бюро Евклид
 Страница сайта - https://doctorveb292-evklid-weblayout.netlify.app
 
 Верстка макета-"Евклид" с использованием HTML,CSS и JS
