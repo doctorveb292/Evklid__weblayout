@@ -8,3 +8,6 @@
 - адаптив под мобильные устройства
 - придерживание концепции Pixel Perfect
 - нейминг по методологии БЭМ
+
+
+![1920](https://github.com/doctorveb292/evklid__weblayout/raw/main/1920EvklidMaket.png)
