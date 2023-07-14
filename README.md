@@ -1,5 +1,6 @@
 # evklid__weblayout
 Страница сайта - https://doctorveb292-evklid-weblayout.netlify.app
+
 Верстка макета-"Евклид" с использованием HTML,CSS и JS
 - использование плагина "Swiper.js"
 - применение "jquery accordion"
